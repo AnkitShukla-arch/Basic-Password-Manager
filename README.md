@@ -33,7 +33,7 @@ A simple yet secure password manager built with Python. This app helps you gener
 1. **Clone the repo**
 
    ```bash
-   git clone https://github.com/AnkitShukla-arch/password-manager.git
+   git clone https://github.com/Lee Christmas/password-manager.git
    cd password-manager
 
 ## Install Required Packages
